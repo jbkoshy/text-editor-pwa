@@ -50,6 +50,7 @@ THEN I should have proper build scripts for a webpack application
 
 <img width="1440" alt="Screen Shot 2023-02-07 at 7 38 55 PM" src="https://user-images.githubusercontent.com/112911066/217406541-63f2e787-bf67-453e-95b0-a5595f5e1214.png">
 
+<img width="1440" alt="Screen Shot 2023-02-07 at 7 44 26 PM" src="https://user-images.githubusercontent.com/112911066/217407306-e987854c-41ee-46c3-97e2-2bd99e1393cc.png">
 
 
 
